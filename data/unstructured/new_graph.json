@@ -1,0 +1,28 @@
+{
+    "nodes": [
+        {
+            "id": "7",
+            "label": "user"
+        },
+        {
+            "id": "8",
+            "label": "product"
+        },
+        {
+            "id": "9",
+            "label": "category"
+        }
+    ],
+    "edges": [
+        {
+            "source": "7",
+            "target": "8",
+            "relation": "purchased"
+        },
+        {
+            "source": "8",
+            "target": "9",
+            "relation": "belongs_to"
+        }
+    ]
+}

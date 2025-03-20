@@ -1,0 +1,19 @@
+{
+    "nodes": [
+        {
+            "id": "3",
+            "label": "User"
+        },
+        {
+            "id": "4",
+            "label": "Product"
+        }
+    ],
+    "edges": [
+        {
+            "source": "3",
+            "target": "4",
+            "relation": "viewed"
+        }
+    ]
+}

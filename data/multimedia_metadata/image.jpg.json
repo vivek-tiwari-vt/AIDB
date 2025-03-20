@@ -1,0 +1,9 @@
+{
+    "file_path": "path/to/image.jpg",
+    "tags": [
+        "cat",
+        "animal",
+        "pet"
+    ],
+    "description": "Image of a cat"
+}
